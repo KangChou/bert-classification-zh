@@ -1,4 +1,8 @@
 ## Bert  中文文本分类
+参考code: 
+- https://github.com/CyberZHG/keras-bert
+- https://github.com/google-research/bert
+- https://github.com/bojone/bert4keras
 
 ## 运行环境
 - python3.6
@@ -24,3 +28,16 @@ python run_classifier_mian.py.py --task_name=MAYI --do_train=false --do_eval=fal
 
  
 
+# 参考资料
+
+Bert文本分类(基于keras-bert实现)：https://blog.csdn.net/asialee_bird/article/details/102747435 
+
+Bert进行二分类：
+- https://blog.csdn.net/bull521/article/details/105044528/  
+- https://github.com/Hejp5665/bert_keras_nlp  
+- https://zhuanlan.zhihu.com/p/61671334 
+- https://cloud.tencent.com/developer/article/1601710
+
+基于keras-bert实现训练，保存，加载，预测单个文本:https://blog.csdn.net/hejp_123/article/details/105432539
+
+https://github.com/morenjiujiu/Chinese_Bert_Classification
