@@ -4,6 +4,9 @@
 - https://github.com/google-research/bert
 - https://github.com/bojone/bert4keras
 
+![image](https://user-images.githubusercontent.com/36963108/203489367-de15addb-addf-447b-9273-64b9ba4f8d41.png)
+
+
 ## 运行环境
 - python3.6
 - tensorflow1.15
@@ -11,7 +14,11 @@
 
 ## 任务 判断文本相似性
 #### 数据说明 
-- atec_nlp_sim_train_0.6.csv和atec_nlp_sim_test_0.4.csv格式相同 \
+数据来自己：https://github.com/wslc1314/atec_nlp_sim_update/tree/master/data/atec
+
+数据的标签为1表示两句话相匹配，标签为0表示两句话不匹配
+
+- atec_nlp_sim_train_0.6.csv和atec_nlp_sim_test_0.4.csv格式相同 
 - 各列分别为"index query1 query2 label"，"\t"分隔。来自网络上蚂蚁金服的公开数据集，是判断文本相似性的数据  
 - 程序运行中只选择了部分数据(train3000,val500,test100)  
 
@@ -40,4 +47,12 @@ Bert进行二分类：
 
 基于keras-bert实现训练，保存，加载，预测单个文本:https://blog.csdn.net/hejp_123/article/details/105432539
 
-https://github.com/morenjiujiu/Chinese_Bert_Classification
+Bert_Classification：https://github.com/morenjiujiu/Chinese_Bert_Classification
+
+数据处理参考：
+- https://blog.csdn.net/yingdajun/article/details/117985048
+- https://blog.csdn.net/Rock_y/article/details/107325750
+- https://zhuanlan.zhihu.com/p/145192287
+- https://www.cnblogs.com/hcxss/p/15894028.html
+
+
