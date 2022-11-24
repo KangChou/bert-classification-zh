@@ -1,4 +1,7 @@
 ## Bert  中文文本分类
+
+文本分类资料综述总结：https://github.com/xiaoqian19940510/text-classification-surveys
+
 参考code: 
 - https://github.com/CyberZHG/keras-bert
 - https://github.com/google-research/bert
@@ -54,5 +57,12 @@ Bert_Classification：https://github.com/morenjiujiu/Chinese_Bert_Classification
 - https://blog.csdn.net/Rock_y/article/details/107325750
 - https://zhuanlan.zhihu.com/p/145192287
 - https://www.cnblogs.com/hcxss/p/15894028.html
-
+- https://github.com/dragen1860/TensorFlow-2.x-Tutorials
+- https://github.com/NielsRogge/Transformers-Tutorials
+- https://github.com/MorvanZhou/NLP-Tutorials
+- 不错的资料：https://github.com/graykode/nlp-tutorial
+- https://github.com/aniruddhachoudhury/BERT-Tutorials
+- https://github.com/abhimishra91/transformers-tutorials
+- 哈工大bert:https://github.com/ymcui/Chinese-BERT-wwm
+- 聊天机器人GPT：https://github.com/Morizeyao/GPT2-Chinese
 
