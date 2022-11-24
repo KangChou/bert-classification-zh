@@ -1,11 +1,14 @@
 
-# bert4keras+tf2 自然语言处理库
+# bert4keras + keras-bert 自然语言处理库
 
 兼容tensorflow 1.14+和tensorflow 2.x，实验环境是Python 2.7、Tesorflow 1.14+以及Keras 2.3.1（已经在2.2.4、2.3.0、2.3.1、tf.keras下测试通过）。
 
-# 参考code
+## bert4keras+tf2 实现
 - https://github.com/bojone/bert4keras/tree/master/examples
 - https://github.com/CyberZHG/keras-bert
+
+## bert4keras的pytorch实现
+https://github.com/Tongjilibo/bert4torch
 
 # 训练与预测
 ![image](https://user-images.githubusercontent.com/36963108/203673000-ffceea3b-4d1b-4eea-a5c3-646ef80fa809.png)
@@ -65,3 +68,17 @@
 *   **Chinese-GEN项目下的模型**: [https://github.com/bojone/chinese-gen](https://github.com/bojone/chinese-gen)
 *   **T5.1.1**: [https://github.com/google-research/text-to-text-transfer-transformer/blob/master/released_checkpoints.md#t511](https://github.com/google-research/text-to-text-transfer-transformer/blob/master/released_checkpoints.md#t511)
 *   **Multilingual T5**: [https://github.com/google-research/multilingual-t5/](https://github.com/google-research/multilingual-t5/)
+
+# 其他参考
+
+- https://github.com/dengxc1220/bert4keras_ner_demo/blob/master/0216bert4keras_Demo.ipynb
+- https://github.com/bojone/KgCLUE-bert4keras/blob/main/baseline.py
+- https://github.com/danan0755/Bert_Classifier
+- https://github.com/leefsir/bert4keras4nlp
+- https://github.com/dreams-flying/spo_extract
+- https://github.com/natureLanguageQing/grpc-bert4keras-serve
+- https://github.com/dreams-flying/ner-demo
+- https://github.com/macanv/BERT-BiLSTM-CRF-NER
+- https://github.com/lonePatient/BERT-NER-Pytorch
+- https://github.com/ProHiryu/bert-chinese-ner
+
