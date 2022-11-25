@@ -3,6 +3,7 @@
 文本分类资料综述总结：https://github.com/xiaoqian19940510/text-classification-surveys
 
 参考code: 
+- https://www.kaggle.com/code/ayanami3th/bert-classifcation/notebook
 - https://github.com/CyberZHG/keras-bert
 - https://github.com/google-research/bert
 - https://github.com/bojone/bert4keras
